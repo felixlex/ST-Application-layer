@@ -1,0 +1,27 @@
+:root {
+  font-family: "Inter", sans-serif;
+
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-image: url("https://i.imgur.com/YiqZI2r.png");
+  width:100%;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  background-repeat: no-repeat;
+}
+#gtgtg{
+  width: 100px;
+  border-radius: 15px;
+  height: 45px;
+  margin-inline-start: 15px;
+  background-color: #FFDD2D;
+}
